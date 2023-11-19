@@ -1,5 +1,5 @@
 # RSFNet: Residual Spatial Fusion Network for RGB-Thermal Semantic Segmentation
-This is official pytorch implementation of [RSFNet：Residual Spatial Fusion Network for RGB-Thermal Semantic Segmentation](https://arxiv.org/abs/2306.10364). The paper is available  [here](https://arxiv.org/pdf/2306.10364.pdf).
+This is official pytorch implementation of "RSFNet：Residual Spatial Fusion Network for RGB-Thermal Semantic Segmentation". The paper is available  [here](https://arxiv.org/pdf/2306.10364.pdf).
 <br/>
 
 ## Introduction
